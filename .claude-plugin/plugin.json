@@ -1,0 +1,10 @@
+{
+  "name": "done-for-real",
+  "version": "0.1.0",
+  "description": "Catches silent tool failures where exit code 0 masks a real error, by verifying a command's actual output instead of trusting its exit code.",
+  "author": {
+    "name": "Aiden"
+  },
+  "license": "MIT",
+  "keywords": ["verification", "testing", "hooks", "exit-code", "ci"]
+}
