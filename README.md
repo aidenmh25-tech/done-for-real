@@ -1,4 +1,4 @@
-# done-for-real
+# done-for-real: a coding tool for failures
 
 A Claude Code skill (and hook) that catches **silent tool failures** — the cases
 where a command exits `0` while it actually failed — by verifying the command's
